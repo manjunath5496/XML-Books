@@ -1,3 +1,15 @@
+<p><strong>Extensible Markup Language</strong>&nbsp;(<strong>XML</strong>) is a&nbsp;<a title="Markup language" href="https://en.wikipedia.org/wiki/Markup_language">markup language</a>&nbsp;that defines a set of rules for encoding&nbsp;<a title="Electronic document" href="https://en.wikipedia.org/wiki/Electronic_document">documents</a>&nbsp;in a&nbsp;<a title="File format" href="https://en.wikipedia.org/wiki/File_format">format</a>&nbsp;that is both&nbsp;<a title="Human-readable medium" href="https://en.wikipedia.org/wiki/Human-readable_medium">human-readable</a>&nbsp;and&nbsp;<a title="Machine-readable data" href="https://en.wikipedia.org/wiki/Machine-readable_data">machine-readable</a>. The&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>'s XML 1.0 Specification&nbsp;of 1998&nbsp;and several other related specifications &mdash;all of them free&nbsp;<a title="Open standard" href="https://en.wikipedia.org/wiki/Open_standard">open standards</a>&mdash;define XML.</p>
+<p>The design goals of XML emphasize simplicity, generality, and usability across the&nbsp;<a title="Internet" href="https://en.wikipedia.org/wiki/Internet">Internet</a>.&nbsp;It is a textual data format with strong support via&nbsp;<a title="Unicode" href="https://en.wikipedia.org/wiki/Unicode">Unicode</a>&nbsp;for different&nbsp;<a title="Language" href="https://en.wikipedia.org/wiki/Language">human languages</a>. Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary&nbsp;<a title="Data structure" href="https://en.wikipedia.org/wiki/Data_structure">data structures</a>&nbsp;such as those used in&nbsp;<a title="Web service" href="https://en.wikipedia.org/wiki/Web_service">web services</a>.</p>
+<p>Several&nbsp;<a title="XML schema" href="https://en.wikipedia.org/wiki/XML_schema">schema systems</a>&nbsp;exist to aid in the definition of XML-based languages, while programmers have developed many&nbsp;<a title="Application programming interface" href="https://en.wikipedia.org/wiki/Application_programming_interface">application programming interfaces</a>&nbsp;(APIs) to aid the processing of XML data.</p>
+
+
+
+
+
+
+
+
+
 <h2 id= "Books">Books </h2>
 
 
