@@ -8,7 +8,7 @@
                 <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(2).pdf" style="text-decoration:none;">XML Database Developer's Guide - Oracle XML DB</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(3).pdf" style="text-decoration:none;">Advanced XML Applications from the Experts at The XML Guild</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(4).pdf" style="text-decoration:none;">Beginning XML with C# 7</a></li>
-                <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(5).pdf" style="text-decoration:none;">Database and XML Technologie</a></li>
+                <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(5).pdf" style="text-decoration:none;">Database and XML Technologies</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(6).pdf" style="text-decoration:none;">Essential XML Quick Reference</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(7).pdf" style="text-decoration:none;">XML Tutorial</a></li>
                 <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(8).pdf" style="text-decoration:none;">Java XML and JSON</a></li>
