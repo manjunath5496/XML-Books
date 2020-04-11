@@ -34,17 +34,44 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(25).pdf" style="text-decoration:none;">XSLT Cookbook</a></li>
 	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(26).pdf" style="text-decoration:none;">Git Cheat Sheet </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(26).pdf" style="text-decoration:none;">Beginning XML with DOM and Ajax: From Novice to Professional</a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(27).pdf" style="text-decoration:none;">Using GitHub for a Shared LATEX Writing Project</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(28).pdf" style="text-decoration:none;">The Emergence of GitHub as a Collaborative Platform for Education</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(27).pdf" style="text-decoration:none;">Beginning XML</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(28).pdf" style="text-decoration:none;">Beginning XSLT and XPath</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(29).pdf" style="text-decoration:none;">A quick intro to Git and GitHub</a></li>	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(30).pdf" style="text-decoration:none;">GIT and GITHUB: Basics of Distributed Version Control</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(30).pdf" style="text-decoration:none;">Pro PHP XML and Web Services</a></li>
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(31).pdf" style="text-decoration:none;">A brief introduction to git and GitHub</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(31).pdf" style="text-decoration:none;">Professional XML</a></li>
+	
+<li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(32).pdf" style="text-decoration:none;">Querying XML: XQuery, XPath, and SQL / XML in Context</a></li>
+	
+<li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(33).pdf" style="text-decoration:none;">Sams Teach Yourself Linux in 10 Minutes </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(34).pdf" style="text-decoration:none;">Sams Teach Yourself Linux in 24 Hours</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(35).pdf" style="text-decoration:none;">Schaum's outline of theory and problems of XML</a></li>	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(36).pdf" style="text-decoration:none;">SOA Approach to Integration: XML, Web services, ESB, and BPEL in real-world SOA projects</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(37).pdf" style="text-decoration:none;">SQL Server 2000 Stored Procedure and XML Programming</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(38).pdf" style="text-decoration:none;">Professional XML Databases</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(39).pdf" style="text-decoration:none;">XML and Web Technologies for Data Sciences with R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(40).pdf" style="text-decoration:none;">XML Programming Bible</a></li>	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(41).pdf" style="text-decoration:none;">XML Programming Using the Microsoft XML Parser</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(42).pdf" style="text-decoration:none;">XML Step by Step</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(43).pdf" style="text-decoration:none;">XML Programming Bible</a></li>	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(44).pdf" style="text-decoration:none;">Oracle XML DB Developer's Guide</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(45).pdf" style="text-decoration:none;">XPath and XPointer: Locating Content in XML Documents</a></li>
 	
 	
+<li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(46).pdf" style="text-decoration:none;">XSLT Jumpstarter: Level the Learning Curve and Put Your XML to Work</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/XML-Books/blob/master/xml(47).pdf" style="text-decoration:none;">XSLT: mastering XML transformations</a></li>
 	
 	
 </ul>
