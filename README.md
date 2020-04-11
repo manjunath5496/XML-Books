@@ -122,8 +122,51 @@
 
 </br>
 
-
-
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Applications"><span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Key_terminology"><span class="toctext">Key terminology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Characters_and_escaping"><span class="toctext">Characters and escaping</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Valid_characters"><span class="toctext">Valid characters</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Encoding_detection"><span class="toctext">Encoding detection</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Escaping"><span class="toctext">Escaping</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Comments"><span class="toctext">Comments</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#International_use"><span class="toctext">International use</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Syntactical_correctness_and_error-handling"><span class="toctext">Syntactical correctness and error-handling</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Schemas_and_validation"><span class="toctext">Schemas and validation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Document_type_definition"><span class="toctext">Document type definition</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Schema"><span class="toctext">Schema</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#RELAX_NG"><span class="toctext">RELAX NG</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Schematron"><span class="toctext">Schematron</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#DSDL_and_other_schema_languages"><span class="toctext">DSDL and other schema languages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Related_specifications"><span class="toctext">Related specifications</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Programming_interfaces"><span class="toctext">Programming interfaces</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Simple_API_for_XML"><span class="toctext">Simple API for XML</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Pull_parsing"><span class="toctext">Pull parsing</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Document_Object_Model"><span class="toctext">Document Object Model</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Data_binding"><span class="toctext">Data binding</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#XML_as_data_type"><span class="toctext">XML as data type</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Sources"><span class="toctext">Sources</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Versions"><span class="toctext">Versions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Criticism"><span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Books"><span class="toctext">Books</span></a></li>	
+</ul>
+</br>
 
 
 
