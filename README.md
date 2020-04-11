@@ -2,8 +2,125 @@
 <p>The design goals of XML emphasize simplicity, generality, and usability across the&nbsp;<a title="Internet" href="https://en.wikipedia.org/wiki/Internet">Internet</a>.&nbsp;It is a textual data format with strong support via&nbsp;<a title="Unicode" href="https://en.wikipedia.org/wiki/Unicode">Unicode</a>&nbsp;for different&nbsp;<a title="Language" href="https://en.wikipedia.org/wiki/Language">human languages</a>. Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary&nbsp;<a title="Data structure" href="https://en.wikipedia.org/wiki/Data_structure">data structures</a>&nbsp;such as those used in&nbsp;<a title="Web service" href="https://en.wikipedia.org/wiki/Web_service">web services</a>.</p>
 <p>Several&nbsp;<a title="XML schema" href="https://en.wikipedia.org/wiki/XML_schema">schema systems</a>&nbsp;exist to aid in the definition of XML-based languages, while programmers have developed many&nbsp;<a title="Application programming interface" href="https://en.wikipedia.org/wiki/Application_programming_interface">application programming interfaces</a>&nbsp;(APIs) to aid the processing of XML data.</p>
 
+</br>
 
+<div>
+<table class="infobox"><caption>XML</caption>
+<tbody>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extension</a></th>
+<td><code>.xml</code></td>
+</tr>
+<tr>
+<th scope="row"><a title="Media type" href="https://en.wikipedia.org/wiki/Media_type">Internet media&nbsp;type</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><code>application/xml</code></li>
+<li><code>text/xml</code></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Uniform Type Identifier" href="https://en.wikipedia.org/wiki/Uniform_Type_Identifier">Uniform Type Identifier&nbsp;(UTI)</a></th>
+<td>public.xml</td>
+</tr>
+<tr>
+<th scope="row">UTI&nbsp;conformation</th>
+<td>public.text</td>
+</tr>
+<tr>
+<th scope="row">Developed&nbsp;by</th>
+<td><span class="nowrap"><a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a></span></td>
+</tr>
+<tr>
+<th scope="row">Type of format</th>
+<td><a title="Markup language" href="https://en.wikipedia.org/wiki/Markup_language">Markup language</a></td>
+</tr>
+<tr>
+<th scope="row">Extended&nbsp;from</th>
+<td><a title="Standard Generalized Markup Language" href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a></td>
+</tr>
+<tr>
+<th scope="row">Extended&nbsp;to</th>
+<td>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="List of XML markup languages" href="https://en.wikipedia.org/wiki/List_of_XML_markup_languages">Numerous languages</a>, including&nbsp;<a title="XHTML" href="https://en.wikipedia.org/wiki/XHTML">XHTML</a></li>
+<li><a title="RSS" href="https://en.wikipedia.org/wiki/RSS">RSS</a></li>
+<li><a class="mw-redirect" title="Atom (standard)" href="https://en.wikipedia.org/wiki/Atom_(standard)">Atom</a></li>
+<li><a class="mw-redirect" title="KML" href="https://en.wikipedia.org/wiki/KML">KML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="International standard" href="https://en.wikipedia.org/wiki/International_standard">Standard</a></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a class="external text" href="http://www.w3.org/TR/2008/REC-xml-20081126/" rel="nofollow">1.0 (Fifth Edition)</a><br /><span class="nowrap">(November&nbsp;26, 2008<span class="noprint">; 11 years ago</span>)</span></li>
+<li><a class="external text" href="http://www.w3.org/TR/2006/REC-xml11-20060816/" rel="nofollow">1.1 (Second Edition)</a><br /><span class="nowrap">(August&nbsp;16, 2006<span class="noprint">; 13 years ago</span>)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a title="Open format" href="https://en.wikipedia.org/wiki/Open_format">Open format</a>?</span></th>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div>
+<div>
+<table class="infobox hproduct"><caption class="fn">Extensible Markup Language (XML)</caption>
+<tbody>
+<tr>
+<th scope="row">Status</th>
+<td>Published</td>
+</tr>
+<tr>
+<th scope="row">Year started</th>
+<td>1996<span class="noprint">; 24&nbsp;years ago</span></td>
+</tr>
+<tr>
+<th scope="row">Editors</th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a title="Tim Bray" href="https://en.wikipedia.org/wiki/Tim_Bray">Tim Bray</a></li>
+<li><a title="Jean Paoli" href="https://en.wikipedia.org/wiki/Jean_Paoli">Jean Paoli</a></li>
+<li><a title="Michael Sperberg-McQueen" href="https://en.wikipedia.org/wiki/Michael_Sperberg-McQueen">C. M. Sperberg-McQueen</a></li>
+<li>Eve Maler</li>
+<li>Fran&ccedil;ois Yergeau</li>
+<li><a title="John W. Cowan" href="https://en.wikipedia.org/wiki/John_W._Cowan">John Cowan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Related standards</th>
+<td><a class="mw-redirect" title="W3C XML Schema" href="https://en.wikipedia.org/wiki/W3C_XML_Schema">XML Schema</a></td>
+</tr>
+<tr>
+<th scope="row">Domain</th>
+<td><a title="Serialization" href="https://en.wikipedia.org/wiki/Serialization">Data serialization</a></td>
+</tr>
+<tr>
+<th scope="row">Abbreviation</th>
+<td>XML</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a class="external text" href="http://www.w3.org/TR/rec-xml" rel="nofollow">XML 1.0</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
+</br>
 
 
 
